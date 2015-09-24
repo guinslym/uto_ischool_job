@@ -1,0 +1,4994 @@
+[
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 22, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/junior-professional-consultants", 
+        "job_title": "Junior Professional Consultants", 
+        "job_type": "Internship", 
+        "location": {
+            "city": "Various", 
+            "country": "", 
+            "province": ""
+        }, 
+        "organization": "United Nations Association in Canada", 
+        "posted": {
+            "day": 8, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 21, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/health-literacy-and-health-sciences-liaison-librarian", 
+        "job_title": "Health Literacy and Health Sciences Liaison Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Gainesville", 
+            "country": "USA", 
+            "province": "FL"
+        }, 
+        "organization": "University of Florida", 
+        "posted": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 21, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/assessment-liaison-librarian", 
+        "job_title": "Assessment & Liaison Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Mississauga Library", 
+        "posted": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Knowledge Management", 
+        "deadline": {
+            "day": 21, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/enterprise-content-management-analyst", 
+        "job_title": "Enterprise Content Management Analyst", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "RBC", 
+        "posted": {
+            "day": 8, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 21, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/executive-director-2", 
+        "job_title": "Executive Director", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Stephenville", 
+            "country": "Canada", 
+            "province": "Newfoundland and Labrador"
+        }, 
+        "organization": "Newfoundland and Labrador Public Libraries", 
+        "posted": {
+            "day": 10, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Faculty Teaching Positions", 
+        "deadline": {
+            "day": 21, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/teaching-assistants-3", 
+        "job_title": "Teaching Assistants", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Scarborough", 
+        "posted": {
+            "day": 14, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 20, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/research-data-management-librarian-librarian-ii-or-iii", 
+        "job_title": "Research Data Management Librarian (Librarian II or III)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 12, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 19, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archives-assistant-work-study-program-1", 
+        "job_title": "Archives Assistant (Work Study Program)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "St. Michael's College, University of St. Michael's College Archives", 
+        "posted": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Knowledge Management", 
+        "deadline": {
+            "day": 19, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/profile-researcher-writer", 
+        "job_title": "Profile Researcher / Writer", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "ExpertFile", 
+        "posted": {
+            "day": 19, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/prospect-research-officer-0", 
+        "job_title": "Prospect Research Officer", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Heart and Stroke Foundation", 
+        "posted": {
+            "day": 20, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/liaison-librarian-game-design-and-development", 
+        "job_title": "Liaison Librarian, Game Design and Development", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Waterloo", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Wilfrid Laurier University Library", 
+        "posted": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/senior-advisor-investor-engagement-and-data-analytics", 
+        "job_title": "Senior Advisor, Investor Engagement and Data Analytics", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Ontario Securities Commission", 
+        "posted": {
+            "day": 26, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-associate-coordinator-library-accessibility-services-aoda-advisor", 
+        "job_title": "Library Associate, Coordinator Library Accessibility Services & AODA advisor", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Waterloo", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "University of Waterloo", 
+        "posted": {
+            "day": 26, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-associate-special-collections-archives", 
+        "job_title": "Library Associate, Special Collections & Archives", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Waterloo", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "University of Waterloo", 
+        "posted": {
+            "day": 28, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/technology-specialist-0", 
+        "job_title": "Technology Specialist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Scotiabank", 
+        "posted": {
+            "day": 1, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/labresearch-assistants-project-curator", 
+        "job_title": "Lab/Research Assistants: Project Curator", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Semaphore, Faculty of Information, U of T", 
+        "posted": {
+            "day": 1, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 18, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/director-inventory-and-outreach", 
+        "job_title": "Director of Inventory and Outreach", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "The Children's Book Bank", 
+        "posted": {
+            "day": 8, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 17, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/applied-research-liaison-librarian", 
+        "job_title": "Applied Research Liaison Librarian", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Markham", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Seneca Libraries, Seneca College of Applied Arts and Technology", 
+        "posted": {
+            "day": 2, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 17, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/liaison-librarian", 
+        "job_title": "Liaison Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "King City", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Seneca Libraries, Seneca College of Applied Arts and Technology", 
+        "posted": {
+            "day": 2, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 17, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-and-communications-coordinator", 
+        "job_title": "Library and Communications Coordinator", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Family Care Office, U of T", 
+        "posted": {
+            "day": 3, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 16, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/special-collections-librarian-0", 
+        "job_title": "Special Collections Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Kingston", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Queen's University", 
+        "posted": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Knowledge Management", 
+        "deadline": {
+            "day": 16, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/senior-information-management-analyst-ps4", 
+        "job_title": "Senior Information Management Analyst (PS4)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "AB"
+        }, 
+        "organization": "Government of Alberta", 
+        "posted": {
+            "day": 1, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 16, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/ceo-head-librarian", 
+        "job_title": "CEO / Head Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Bancroft", 
+            "country": "", 
+            "province": "Ontario"
+        }, 
+        "organization": "Bancroft Public Library", 
+        "posted": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Information Systems", 
+        "deadline": {
+            "day": 15, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/usability-specialist", 
+        "job_title": "Usability Specialist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "CCO", 
+        "posted": {
+            "day": 27, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 14, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/head-special-collections-and-rare-books", 
+        "job_title": "Head, Special Collections and Rare Books", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Burnaby", 
+            "country": "Canada", 
+            "province": "BC"
+        }, 
+        "organization": "Simon Fraser University", 
+        "posted": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 14, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/digital-alliance-project-assistant", 
+        "job_title": "Digital Alliance Project Assistant", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Sudbury", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "The City of Greater Sudbury", 
+        "posted": {
+            "day": 1, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 14, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/assistant-cataloguing-local-history", 
+        "job_title": "Assistant, Cataloguing (Local History)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Phillipsburg", 
+            "country": "Canada", 
+            "province": "Ontatio"
+        }, 
+        "organization": "Regional Municipality of Waterloo", 
+        "posted": {
+            "day": 8, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 13, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/manager-systems-digital-services", 
+        "job_title": "Manager, Systems & Digital Services", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Thuwal", 
+            "country": "Saudi Arabia", 
+            "province": "Jeddah"
+        }, 
+        "organization": "The University Library of  King Abdullah University of Science and Technology", 
+        "posted": {
+            "day": 19, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 13, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/assistant-archivist-contract", 
+        "job_title": "Assistant Archivist (Contract)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Owen Sound", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Grey Roots Museum and Archives", 
+        "posted": {
+            "day": 28, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 13, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/community-librarian-strathcona-library", 
+        "job_title": "Community Librarian - Strathcona Library", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "Alberta"
+        }, 
+        "organization": "Edmonton Public Library", 
+        "posted": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 13, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/research-librarian-12-month-contract", 
+        "job_title": "Research Librarian (12 month contract)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Legislative Assembly of Ontario", 
+        "posted": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Knowledge Management", 
+        "deadline": {
+            "day": 11, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/metadata-assistant", 
+        "job_title": "Metadata Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "University of Toronto", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 11, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/research-enterprise-scholarly-communications-librarian-cla", 
+        "job_title": "Research Enterprise & Scholarly Communications Librarian, CLA", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Guelph", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "University of Guelph - McLaughlin Library", 
+        "posted": {
+            "day": 13, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 11, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/cataloguer-15-256ext", 
+        "job_title": "Cataloguer (15-256EXT)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Toronto Public Library", 
+        "posted": {
+            "day": 26, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (School)", 
+        "deadline": {
+            "day": 11, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/librarian-reference-and-digital-resources", 
+        "job_title": "Librarian - Reference and Digital Resources", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Toronto District School Board", 
+        "posted": {
+            "day": 2, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 11, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archivist-9", 
+        "job_title": "Archivist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Grande Prairie", 
+            "country": "Canada", 
+            "province": "AB"
+        }, 
+        "organization": "South Peace Regional Archives", 
+        "posted": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-and-instruction-librarian-scott-research-and-collections-department-0", 
+        "job_title": "Reference and Instruction Librarian - Scott Research and Collections Department", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "York University Libraries", 
+        "posted": {
+            "day": 5, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Information Systems", 
+        "deadline": {
+            "day": 10, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/drupal-programmer-work-study-part-time-digital-humanities-project", 
+        "job_title": "Drupal Programmer (work-study, part-time) for Digital Humanities Project", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "Department of History, University of Toronto", 
+        "posted": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 10, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archives-technician-0", 
+        "job_title": "Archives Technician", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Dartmouth", 
+            "country": "Canada", 
+            "province": "Nova Scotia"
+        }, 
+        "organization": "Halifax Regional Municipality", 
+        "posted": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/client-services-librarian-two-0", 
+        "job_title": "Client Services Librarian (two)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Regina", 
+            "country": "Canada", 
+            "province": "Saskatchewan"
+        }, 
+        "organization": "Regina Qu'Appelle Health Region", 
+        "posted": {
+            "day": 27, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 10, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/technician-information-management-and-archives", 
+        "job_title": "Technician, Information Management and Archives", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Kitchener", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Regional Municipality of Waterloo", 
+        "posted": {
+            "day": 3, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 9, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/analyst-health-information-management", 
+        "job_title": "Analyst, Health Information Management", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Waterloo", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Region of Waterloo", 
+        "posted": {
+            "day": 12, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 9, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/youth-services-senior-information-services-technician", 
+        "job_title": "Youth Services, Senior Information Services Technician", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Pickering", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Pickering Public Library", 
+        "posted": {
+            "day": 27, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 8, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/faculty-services-library-assistant-0", 
+        "job_title": "Faculty Services Library Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "John M. Kelly Library, St. Michael's College, UofT", 
+        "posted": {
+            "day": 10, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 8, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/chair-libraries-information-technology", 
+        "job_title": "Chair, Libraries Information Technology", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Gainesville", 
+            "country": "USA", 
+            "province": "FL"
+        }, 
+        "organization": "University of Florida", 
+        "posted": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 8, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-subject-librarian-humanities-social-sciences", 
+        "job_title": "Reference & Subject Librarian, Humanities & Social Sciences", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Montreal", 
+            "country": "Canada", 
+            "province": "Quebec"
+        }, 
+        "organization": "Concordia University", 
+        "posted": {
+            "day": 19, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 6, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/community-librarian-aboriginal-community-library-services-division", 
+        "job_title": "Community Librarian (Aboriginal Community) \u2013 Library Services Division", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "Alberta"
+        }, 
+        "organization": "Edmonton Public Library", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/childrens-and-teen-services-librarian", 
+        "job_title": "Children's and Teen Services Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Fort Erie", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Fort Erie Public Library", 
+        "posted": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/information-resources-librarian-sciences-0", 
+        "job_title": "Information Resources Librarian (Sciences)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Guelph", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "University of Guelph Library", 
+        "posted": {
+            "day": 10, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/manager-records-management", 
+        "job_title": "Manager, Records Management", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Osler, Hoskin & Harcourt LLP", 
+        "posted": {
+            "day": 13, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/researcherrecruiter-reference-1672", 
+        "job_title": "Researcher/Recruiter - Reference #1672", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Ambit Search", 
+        "posted": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/records-analyst-2", 
+        "job_title": "Records Analyst 2", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Halifax", 
+            "country": "Canada", 
+            "province": "NS"
+        }, 
+        "organization": "Government of Nova Scotia", 
+        "posted": {
+            "day": 24, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/supervising-librarian-bookmobile-kiosk-services", 
+        "job_title": "Supervising Librarian - Bookmobile & Kiosk Services", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Ottawa Public Library", 
+        "posted": {
+            "day": 24, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-services-assistant", 
+        "job_title": "Library Services Assistant", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Royal Conservatory of Music", 
+        "posted": {
+            "day": 26, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 4, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/labresearch-assistants-2-work-study", 
+        "job_title": "Lab/Research Assistants (2) - Work-Study", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Semaphore, Faculty of Information, U of T", 
+        "posted": {
+            "day": 1, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 3, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/graduate-student-reference-assistant-gsra-0", 
+        "job_title": "Graduate Student Reference Assistant (GSRA)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "U of T Mississauga Library/Li Koon Chun Finance Learning Centre", 
+        "posted": {
+            "day": 25, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 2, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/document-and-records-management-coordinator", 
+        "job_title": "Document and Records Management Coordinator", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Scarborough", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Elections Ontario", 
+        "posted": {
+            "day": 19, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 2, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/chief-records-officer-0", 
+        "job_title": "Chief Records Officer", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Victoria", 
+            "country": "Canada", 
+            "province": "BC"
+        }, 
+        "organization": "Government of British Columbia", 
+        "posted": {
+            "day": 24, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 1, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/festival-volunteers", 
+        "job_title": "Festival Volunteers", 
+        "job_type": "Volunteer", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "The Word On The Street Toronto", 
+        "posted": {
+            "day": 5, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 1, 
+            "month": "Sep", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/instruction-librarian-assistant-professor-university-libraries", 
+        "job_title": "Instruction Librarian, Assistant Professor of University Libraries", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Greeley", 
+            "country": "USA", 
+            "province": "CO"
+        }, 
+        "organization": "University of Northern Colorado", 
+        "posted": {
+            "day": 24, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-services-technician-technical-support", 
+        "job_title": "Reference Services Technician \u2013 Technical Support", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Brampton", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Sheridan College", 
+        "posted": {
+            "day": 21, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/database-and-administrative-assistant", 
+        "job_title": "Database and Administrative Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "Alberta"
+        }, 
+        "organization": "Archives Society of Alberta", 
+        "posted": {
+            "day": 28, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/data-services-librarian", 
+        "job_title": "Data Services Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Carleton University Library", 
+        "posted": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/public-services-librarian-health-sciences-library-university-alberta", 
+        "job_title": "Public Services Librarian, Health Sciences Library, University of Alberta", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "Alberta"
+        }, 
+        "organization": "University of Alberta Libraries", 
+        "posted": {
+            "day": 4, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/records-management-facilitator-intern-project-manager", 
+        "job_title": "Records Management Facilitator Intern & Project Manager", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Honolulu", 
+            "country": "USA", 
+            "province": "Hawaii"
+        }, 
+        "organization": "U.S. Fish and Wildlife Service", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/research-librarian-12-month-contractsecondment", 
+        "job_title": "Research Librarian (12 month Contract/Secondment)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Legislative Assembly of Ontario", 
+        "posted": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 31, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/youth-services-library", 
+        "job_title": "Youth Services Library", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ajax", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Ajax Public Library", 
+        "posted": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/head-access-services", 
+        "job_title": "Head of Access Services", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Carleton University Library", 
+        "posted": {
+            "day": 15, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Information Systems", 
+        "deadline": {
+            "day": 28, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/event-project-management-and-fundraising-specialist", 
+        "job_title": "Event Project Management and Fundraising Specialist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Markham", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "TechConnex", 
+        "posted": {
+            "day": 14, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 27, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/area-manager-0", 
+        "job_title": "Area Manager", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Vaughan", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Vaughan Public Libraries", 
+        "posted": {
+            "day": 30, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 27, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/medical-librarian", 
+        "job_title": "Medical Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Saskatoon", 
+            "country": "Canada", 
+            "province": "SK"
+        }, 
+        "organization": "Saskatoon Health Region", 
+        "posted": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 26, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/chief-records-officer", 
+        "job_title": "Chief Records Officer", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Victoria", 
+            "country": "Canada", 
+            "province": "BC"
+        }, 
+        "organization": "BC Public Service", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 24, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/chair-cataloging-and-discovery-services", 
+        "job_title": "Chair, Cataloging and Discovery Services", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Gainesville", 
+            "country": "USA", 
+            "province": "FL"
+        }, 
+        "organization": "University of Florida", 
+        "posted": {
+            "day": 29, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 24, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/digital-archivist-1", 
+        "job_title": "Digital Archivist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "Alberta"
+        }, 
+        "organization": "University of Alberta Libraries", 
+        "posted": {
+            "day": 4, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 24, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/enterprise-content-management-administrator-versatile-enterprise", 
+        "job_title": "Enterprise Content Management Administrator \u2013 Versatile Enterprise", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Newmarket", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "The Regional Municipality of York", 
+        "posted": {
+            "day": 11, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 22, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/informational-professional-collections-manager", 
+        "job_title": "Informational Professional / Collections Manager", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Corkin Gallery", 
+        "posted": {
+            "day": 5, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 22, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/institutional-research-specialist", 
+        "job_title": "Institutional Research Specialist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "New York City", 
+            "country": "USA", 
+            "province": "NY"
+        }, 
+        "organization": "City University of New York", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archives-assistant-1", 
+        "job_title": "Archives Assistant", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Halifax", 
+            "country": "Canada", 
+            "province": "NS"
+        }, 
+        "organization": "Dalhousie University Archives", 
+        "posted": {
+            "day": 13, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/graduate-student-reference-assistant-0", 
+        "job_title": "Graduate Student Reference Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "University of Toronto Scarborough Library", 
+        "posted": {
+            "day": 22, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/director-collection-development-directeurdirectrice-d-veloppement-des-collections", 
+        "job_title": "Director, Collection Development / Directeur/Directrice, D\u00e9veloppement des collections", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Library of Parliament / Bilbioth\u00e8que du Parlement", 
+        "posted": {
+            "day": 27, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/education-coordinator-0", 
+        "job_title": "Education Coordinator", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Ontario Library Association", 
+        "posted": {
+            "day": 4, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 21, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archives-corporate-records-archivist-10-month-contract", 
+        "job_title": "Archives & Corporate Records Archivist (10 month contract)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Scotiabank", 
+        "posted": {
+            "day": 13, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 20, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archives-assistant-temporary-student-position", 
+        "job_title": "ARCHIVES ASSISTANT (Temporary Student Position)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto (North York)", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Green Shield Canada", 
+        "posted": {
+            "day": 13, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 19, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-archives-information-manager", 
+        "job_title": "Library & Archives Information Manager", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Various", 
+            "country": "France", 
+            "province": ""
+        }, 
+        "organization": "OECD", 
+        "posted": {
+            "day": 2, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 19, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-practicum", 
+        "job_title": "Library Practicum", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Banff", 
+            "country": "Canada", 
+            "province": "ALBERTA"
+        }, 
+        "organization": "The Banff Centre Library", 
+        "posted": {
+            "day": 6, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/3188-librarian", 
+        "job_title": "3188 - Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Hamilton", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Mohawk College", 
+        "posted": {
+            "day": 24, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (School)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-technician-4", 
+        "job_title": "Library Technician", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Kingsway College School", 
+        "posted": {
+            "day": 5, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 18, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/south-asian-documentation-project", 
+        "job_title": "South Asian Documentation Project", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "AB"
+        }, 
+        "organization": "Friends of the Provincial Archives of Alberta Society", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/head-libraries-systems", 
+        "job_title": "Head, Libraries Systems", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Winnipeg", 
+            "country": "Canada", 
+            "province": "Manitoba"
+        }, 
+        "organization": "University of Manitoba", 
+        "posted": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archivist-5-positions", 
+        "job_title": "Archivist (5 positions)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Brunssum", 
+            "country": "The Netherlands", 
+            "province": ""
+        }, 
+        "organization": "NATO", 
+        "posted": {
+            "day": 22, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/records-analyst", 
+        "job_title": "Records Analyst", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Cayuga", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Haldimand County", 
+        "posted": {
+            "day": 29, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 17, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-technician-public-health", 
+        "job_title": "Library Technician (Public Health)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Waterloo", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Region of Waterloo Public Health and Emergency Services", 
+        "posted": {
+            "day": 4, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Museum", 
+        "deadline": {
+            "day": 16, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/assistant-curator", 
+        "job_title": "Assistant Curator", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Steinbach", 
+            "country": "Canada", 
+            "province": "MB"
+        }, 
+        "organization": "Mennonite Heritage Village", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 15, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/associate-university-librarian-academic-services", 
+        "job_title": "Associate University Librarian (Academic Services)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Carleton University Library", 
+        "posted": {
+            "day": 15, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 14, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/part-time-reference-librarian", 
+        "job_title": "Part-time Reference Librarian", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "York University Libraries", 
+        "posted": {
+            "day": 16, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Information Systems", 
+        "deadline": {
+            "day": 14, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/sharepoint-content-specialist-4-month-contract", 
+        "job_title": "SharePoint Content Specialist (4-Month Contract)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "RGA International Corporation", 
+        "posted": {
+            "day": 23, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 14, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/digital-journalist", 
+        "job_title": "Digital Journalist", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Geothink", 
+        "posted": {
+            "day": 29, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 14, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/part-time-business-librarians", 
+        "job_title": "Part-Time Business Librarians", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Peter F. Bronfman Business Library, York University", 
+        "posted": {
+            "day": 28, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 14, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-assistant-5", 
+        "job_title": "Library Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "DG Ivey Library, New College, University of Toronto", 
+        "posted": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (School)", 
+        "deadline": {
+            "day": 14, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/graduate-student-reference-assistant-gsra", 
+        "job_title": "Graduate Student Reference Assistant (GSRA)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "U of T Mississsauga Library", 
+        "posted": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 12, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/rare-books-library-technician-contract-position", 
+        "job_title": "Rare Books Library Technician (contract position)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "University of St. Michael's College", 
+        "posted": {
+            "day": 28, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 12, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/student-achievement-officer", 
+        "job_title": "Student Achievement Officer", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Ministry of Education", 
+        "posted": {
+            "day": 28, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 12, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-assistant-0", 
+        "job_title": "Reference Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "John M. Kelly Library, St.Michael's College, University of Toronto", 
+        "posted": {
+            "day": 28, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 11, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/askon-student-opportunity-0", 
+        "job_title": "askON Student Opportunity", 
+        "job_type": "Volunteer", 
+        "location": {
+            "city": "Virtual", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Ask Ontario, Ontario Colleges Library Service (OCLS)", 
+        "posted": {
+            "day": 5, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/associate-manager-circulation-and-materials-delivery-collection-management-and-access-d", 
+        "job_title": "Associate Manager, Circulation and Materials Delivery -  Collection Management and Access Division", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "Alberta"
+        }, 
+        "organization": "Edmonton Public Library", 
+        "posted": {
+            "day": 20, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 10, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/records-management-project-assistant-18-month-contract", 
+        "job_title": "Records Management Project Assistant, 18 month contract", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "IMAX Corporation", 
+        "posted": {
+            "day": 24, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Knowledge Management", 
+        "deadline": {
+            "day": 10, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/knowledge-management-manager", 
+        "job_title": "Knowledge Management Manager", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Deloitte", 
+        "posted": {
+            "day": 27, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/electronic-services-specialist-full-time-contract", 
+        "job_title": "Electronic Services Specialist (Full-time Contract)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Vaughan", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Vaughan Public Libraries", 
+        "posted": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/branch-assistant-ii", 
+        "job_title": "Branch Assistant II", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Vaughan", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Vaughan Public Libraries", 
+        "posted": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 9, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-assistant-4", 
+        "job_title": "Library Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "University College Library, University of Toronto", 
+        "posted": {
+            "day": 23, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 9, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/student-archivist", 
+        "job_title": "Student Archivist", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Winnipeg", 
+            "country": "Canada", 
+            "province": "MB"
+        }, 
+        "organization": "HSC Winnipeg", 
+        "posted": {
+            "day": 27, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 8, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/assistant-librarian", 
+        "job_title": "Assistant Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Hong Kong", 
+            "country": "PRC", 
+            "province": ""
+        }, 
+        "organization": "Hong Kong Baptist University", 
+        "posted": {
+            "day": 15, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/coordinator-legal-regulatory-affairs", 
+        "job_title": "Coordinator, Legal & Regulatory Affairs", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": ""
+        }, 
+        "organization": "TekSavvy Solutions Inc.", 
+        "posted": {
+            "day": 7, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 7, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/project-development-specialist", 
+        "job_title": "Project Development Specialist", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "St Thomas", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "St. Thomas Public Library", 
+        "posted": {
+            "day": 21, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 5, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/student-assistant-index-and-reference", 
+        "job_title": "Student Assistant, Index and Reference", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Legislative Assembly of Ontario", 
+        "posted": {
+            "day": 22, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 5, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/librarian-4-systems-and-library-technology-manager", 
+        "job_title": "Librarian 4 (Systems and Library Technology Manager)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Halifax", 
+            "country": "Canada", 
+            "province": "NS"
+        }, 
+        "organization": "Government of Nova Scotia", 
+        "posted": {
+            "day": 24, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 4, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/business-reference-assistant-0", 
+        "job_title": "Business Reference Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Rotman Business Information Centre, University of Toronto", 
+        "posted": {
+            "day": 20, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 4, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/course-instructor-1", 
+        "job_title": "Course Instructor", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Uhversity of Toronto Mississauga", 
+        "posted": {
+            "day": 29, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 2, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/volunteer-digital-pedagogy-institute", 
+        "job_title": "Volunteer, Digital Pedagogy Institute", 
+        "job_type": "Volunteer", 
+        "location": {
+            "city": "Scarborough", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "University of Toronto Scarborough Library", 
+        "posted": {
+            "day": 13, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 1, 
+            "month": "Aug", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/big-science-data", 
+        "job_title": "Big Science Data", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Lyngby", 
+            "country": "Denmark", 
+            "province": ""
+        }, 
+        "organization": "Technical University of Denmark", 
+        "posted": {
+            "day": 7, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/volunteer-patient-and-family-learning-centre-0", 
+        "job_title": "Volunteer, Patient and Family Learning Centre", 
+        "job_type": "Volunteer", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "St. Michael's Hospital", 
+        "posted": {
+            "day": 24, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-librarian-1", 
+        "job_title": "Reference Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Stikeman Elliott LLP", 
+        "posted": {
+            "day": 7, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/corporate-records-analyst-0", 
+        "job_title": "Corporate Records Analyst", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Kitchener", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "City of Kitchener", 
+        "posted": {
+            "day": 7, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/manager-conservation-and-preservation-re-posting", 
+        "job_title": "Manager, Conservation and Preservation (Re-posting)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "John M. Kelly Library, University of St. Michael\u2019s College", 
+        "posted": {
+            "day": 9, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/referrals-coordinator", 
+        "job_title": "Referrals Coordinator", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Vancouver", 
+            "country": "Canada", 
+            "province": "BC"
+        }, 
+        "organization": "Musqueam Indian Band", 
+        "posted": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/front-desk-staff-2", 
+        "job_title": "Front-Desk Staff (2)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "U of T Career Centre", 
+        "posted": {
+            "day": 20, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 31, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/document-assembly-specialist", 
+        "job_title": "Document Assembly Specialist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Hess Associates Executive Search", 
+        "posted": {
+            "day": 22, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/executive-director-1", 
+        "job_title": "Executive Director", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Grande Prairie", 
+            "country": "Canada", 
+            "province": "AB"
+        }, 
+        "organization": "South Peace Regional Archives", 
+        "posted": {
+            "day": 11, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/statistics-and-data-librarian-librarian-ii-or-iii", 
+        "job_title": "Statistics and Data Librarian, Librarian II or III", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 25, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/outreach-and-instruction-librarian-librarian-i-or-ii", 
+        "job_title": "Outreach and Instruction Librarian, Librarian I or II", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 2, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/instruction-liaison-librarian-librarian-i-or-ii", 
+        "job_title": "Instruction & Liaison Librarian (Librarian I or II)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 27, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-technical-assistant", 
+        "job_title": "Library Technical Assistant", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Bayer Inc., Library and Information Resources Centre", 
+        "posted": {
+            "day": 9, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 24, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-technologies-specialist", 
+        "job_title": "Library Technologies Specialist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "London", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Middlesex County Library", 
+        "posted": {
+            "day": 13, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 24, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/senior-information-services-technician", 
+        "job_title": "Senior Information Services Technician", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Pickering", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Pickering Public Library", 
+        "posted": {
+            "day": 13, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 23, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/collection-services-librarian-part-time-term-position-08-fte", 
+        "job_title": "Collection Services Librarian (Part-time Term Position - 0.8 FTE)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Saskatoon", 
+            "country": "Canada", 
+            "province": "SK"
+        }, 
+        "organization": "University of Saskatchewan Library", 
+        "posted": {
+            "day": 12, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 23, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/user-experience-librarian", 
+        "job_title": "User Experience Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Huntsville", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Huntsville Public Library", 
+        "posted": {
+            "day": 8, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (School)", 
+        "deadline": {
+            "day": 22, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-subject-librarian-business", 
+        "job_title": "Reference & Subject Librarian, Business", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Montreal", 
+            "country": "Canada", 
+            "province": "Quebec"
+        }, 
+        "organization": "Concordia University", 
+        "posted": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 22, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/teaching-assistants-2", 
+        "job_title": "Teaching Assistants", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Scarborough", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Scarborough", 
+        "posted": {
+            "day": 2, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Faculty Teaching Positions", 
+        "deadline": {
+            "day": 22, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/course-instructor-0", 
+        "job_title": "Course Instructor", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Mississauga", 
+        "posted": {
+            "day": 16, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Museum", 
+        "deadline": {
+            "day": 21, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/manager-yukon-beringia-interpretive-centre", 
+        "job_title": "Manager, Yukon Beringia Interpretive Centre", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Whitehorse", 
+            "country": "Canada", 
+            "province": "YT"
+        }, 
+        "organization": "Yukon Government", 
+        "posted": {
+            "day": 8, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 21, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/project-archivist-2", 
+        "job_title": "Project Archivist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Burnaby", 
+            "country": "Canada", 
+            "province": "BC"
+        }, 
+        "organization": "Simon Fraser University Library", 
+        "posted": {
+            "day": 8, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Faculty Teaching Positions", 
+        "deadline": {
+            "day": 21, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/part-time-faculty-library-and-information-technician-program", 
+        "job_title": "Part-time Faculty, Library and Information Technician Program", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Seneca College, School of Legal and Public Administration", 
+        "posted": {
+            "day": 9, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 20, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reposted-vacancy-assessment-librarian", 
+        "job_title": "Reposted Vacancy - Assessment Librarian", 
+        "job_type": "Full-time", 
+        "location": "", 
+        "organization": "UF George A. Smathers Libraries", 
+        "posted": {
+            "day": 5, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 20, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/librarian-i-or-ii-processing-archivist", 
+        "job_title": "Librarian I or II (Processing Archivist)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "John M. Kelly Library, University of St. Michael\u2019s College", 
+        "posted": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 20, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/carl-project-officer", 
+        "job_title": "CARL Project Officer", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Canadian Association of Research Libraries (CARL)", 
+        "posted": {
+            "day": 6, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 20, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/project-officer", 
+        "job_title": "Project Officer", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Canadian Association of Research Libraries (CARL)", 
+        "posted": {
+            "day": 14, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 19, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/learning-support-librarian", 
+        "job_title": "Learning Support Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Hamilton", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "McMaster University Library", 
+        "posted": {
+            "day": 6, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 19, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-and-instruction-services-librarian", 
+        "job_title": "Reference and Instruction Services Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "The Hospital for Sick Children", 
+        "posted": {
+            "day": 9, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 19, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/community-librarian-riverbend-branch", 
+        "job_title": "Community Librarian - Riverbend Branch", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Edmonton", 
+            "country": "Canada", 
+            "province": "Alberta"
+        }, 
+        "organization": "Edmonton Public Library", 
+        "posted": {
+            "day": 10, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/liaison-librarian-humanities-and-social-sciences-library-1", 
+        "job_title": "Liaison Librarian - Humanities and Social Sciences Library", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Montreal", 
+            "country": "Canada", 
+            "province": "Quebec"
+        }, 
+        "organization": "McGill University", 
+        "posted": {
+            "day": 23, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 18, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/information-specialist-ii", 
+        "job_title": "Information Specialist II", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Mount Sinai Hospital", 
+        "posted": {
+            "day": 6, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/scholarly-communications-librariandigital-projects-curator-one-year-contract", 
+        "job_title": "Scholarly Communications Librarian/Digital Projects Curator (One-Year Contract)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "OCAD University", 
+        "posted": {
+            "day": 12, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/teaching-assistants-1", 
+        "job_title": "Teaching Assistants", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Mississauga", 
+        "posted": {
+            "day": 22, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/prospect-research-officer-replacement-assignment-6-months", 
+        "job_title": "Prospect Research Officer (replacement assignment - 6 months)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Carleton University", 
+        "posted": {
+            "day": 3, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 17, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/senior-advisor-content-management-rim", 
+        "job_title": "Senior Advisor, Content Management - RIM", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Export Development Canada", 
+        "posted": {
+            "day": 8, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 16, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archivist-7", 
+        "job_title": "Archivist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Richmond", 
+            "country": "Canada", 
+            "province": "BC"
+        }, 
+        "organization": "City of Richmond", 
+        "posted": {
+            "day": 8, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 15, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/department-chair-cataloging-and-discovery-services", 
+        "job_title": "Department Chair for Cataloging and Discovery Services", 
+        "job_type": "Full-time", 
+        "location": "", 
+        "organization": "George A. Smathers Libraries, University of Florida", 
+        "posted": {
+            "day": 28, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 15, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/archivist-8", 
+        "job_title": "Archivist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Winnipeg", 
+            "country": "Canada", 
+            "province": "MB"
+        }, 
+        "organization": "The Royal Manitoba Theatre Centre", 
+        "posted": {
+            "day": 9, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 12, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/government-information-user-support-librarian-librarian-i-50-fte", 
+        "job_title": "Government Information & User Support Librarian (Librarian I) (50% FTE)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 25, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 11, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/casual-library-team-member", 
+        "job_title": "Casual Library Team Member", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Pickering", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Pickering Public Library", 
+        "posted": {
+            "day": 29, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/digital-services-intern", 
+        "job_title": "Digital Services Intern", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Ottawa", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Canadian Research Knowledge Network", 
+        "posted": {
+            "day": 9, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/community-services-librarian", 
+        "job_title": "Community Services Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Baker Lake", 
+            "country": "Canada", 
+            "province": "Nunavut"
+        }, 
+        "organization": "Government of Nunavut", 
+        "posted": {
+            "day": 19, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/systems-librarian-0", 
+        "job_title": "Systems Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Baker Lake", 
+            "country": "Canada", 
+            "province": "Nunavut"
+        }, 
+        "organization": "Government of Nunavut", 
+        "posted": {
+            "day": 19, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 10, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/records-administrator", 
+        "job_title": "Records Administrator", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Ontario English Catholic Teachers' Association", 
+        "posted": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/electronic-services-specialist-contract", 
+        "job_title": "Electronic Services Specialist (Contract)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Vaughan", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Vaughan Public Libraries", 
+        "posted": {
+            "day": 2, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (School)", 
+        "deadline": {
+            "day": 10, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-volunteers", 
+        "job_title": "Library Volunteers", 
+        "job_type": "Volunteer", 
+        "location": {
+            "city": "Richmond Hill", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Richland Academy", 
+        "posted": {
+            "day": 6, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 8, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/manager-legal-information-and-knowledge-resources", 
+        "job_title": "Manager, Legal Information and Knowledge Resources", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "", 
+            "province": "ON"
+        }, 
+        "organization": "RBC", 
+        "posted": {
+            "day": 23, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 8, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/enterprise-content-management-business-analyst", 
+        "job_title": "Enterprise Content Management Business Analyst", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Newmarket", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "The Regional Municipality of York", 
+        "posted": {
+            "day": 25, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 7, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/client-services-librarian-0", 
+        "job_title": "Client Services Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Regina", 
+            "country": "Canada", 
+            "province": "Saskatchewan"
+        }, 
+        "organization": "Regina Qu'Appelle Health Region", 
+        "posted": {
+            "day": 17, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 6, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/teaching-and-learning-librarian", 
+        "job_title": "Teaching and Learning Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "London", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Western University", 
+        "posted": {
+            "day": 1, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 6, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/research-consultant", 
+        "job_title": "Research Consultant", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Scotiabank Library Services", 
+        "posted": {
+            "day": 15, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 5, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/instruction-liaison-librarian-librarian-i", 
+        "job_title": "Instruction & Liaison Librarian (Librarian I)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 4, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 5, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/reference-librarian-librarian-ii", 
+        "job_title": "Reference Librarian (Librarian II)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 8, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 3, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-technician-3", 
+        "job_title": "Library Technician", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Bereskin & Parr LLP", 
+        "posted": {
+            "day": 12, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Museum", 
+        "deadline": {
+            "day": 3, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/communications-and-finance-coordinator", 
+        "job_title": "Communications and Finance Coordinator", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Kingston", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Museum of Health Care at Kingston", 
+        "posted": {
+            "day": 15, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 3, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/manager-conservation-preservation", 
+        "job_title": "Manager, Conservation & Preservation", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "John M. Kelly Library, University of St. Michael\u2019s College", 
+        "posted": {
+            "day": 15, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 3, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/records-analystarchivist", 
+        "job_title": "Records Analyst/Archivist", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "The College of Physicians and Surgeons of Ontario", 
+        "posted": {
+            "day": 24, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 1, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/head-national-centre-truth-reconciliation-archives", 
+        "job_title": "Head, National Centre for Truth & Reconciliation Archives", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Winnipeg", 
+            "country": "Canada", 
+            "province": "Manitoba"
+        }, 
+        "organization": "University of Manitoba", 
+        "posted": {
+            "day": 1, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 1, 
+            "month": "Jul", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/senior-librarian-0", 
+        "job_title": "Senior Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Torys LLP", 
+        "posted": {
+            "day": 4, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/director-branch-experience", 
+        "job_title": "Director, Branch Experience", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Kingston", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Kingston Frontenac Public Library", 
+        "posted": {
+            "day": 4, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/health-sciences-librarian-08-fte-term", 
+        "job_title": "Health Sciences Librarian (0.8 FTE term)", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Saskatoon", 
+            "country": "Canada", 
+            "province": "SK"
+        }, 
+        "organization": "University of Saskatchewan Library", 
+        "posted": {
+            "day": 11, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Information Systems", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/director-information-technology", 
+        "job_title": "Director, Information Technology", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Barrie", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "HGR Graham Partners LLP", 
+        "posted": {
+            "day": 12, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/japanese-cataloger", 
+        "job_title": "Japanese Cataloger", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Windsor", 
+            "country": "United States", 
+            "province": "CT"
+        }, 
+        "organization": "The Donohue Group Inc.", 
+        "posted": {
+            "day": 21, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Other", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/research-chair", 
+        "job_title": "Research Chair", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "North York General Hospital", 
+        "posted": {
+            "day": 29, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/digital-humanities-librarian", 
+        "job_title": "Digital Humanities Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Coral Gables", 
+            "country": "United States", 
+            "province": "Florida"
+        }, 
+        "organization": "University of Miami", 
+        "posted": {
+            "day": 29, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/special-collections-librarian", 
+        "job_title": "Special Collections Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Libraries", 
+        "posted": {
+            "day": 1, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Public)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/chief-executive-officer-3", 
+        "job_title": "Chief Executive Officer", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Welland", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Welland Public Library", 
+        "posted": {
+            "day": 15, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 30, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/law-library-technician", 
+        "job_title": "Law Library Technician", 
+        "job_type": "Part-time", 
+        "location": {
+            "city": "Cobourg", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Northumberland County Law Association", 
+        "posted": {
+            "day": 16, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 29, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/information-consultant", 
+        "job_title": "Information Consultant", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Scotiabank Library Services", 
+        "posted": {
+            "day": 15, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 28, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/gisdata-librarian-librarian-i-or-ii", 
+        "job_title": "GIS/Data Librarian (Librarian I or II)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Mississauga", 
+            "country": "CANADA", 
+            "province": "ON"
+        }, 
+        "organization": "University of Toronto Mississauga Library", 
+        "posted": {
+            "day": 5, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 26, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/head-law-librarian", 
+        "job_title": "Head Law Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Fredericton", 
+            "country": "Canada", 
+            "province": "NB"
+        }, 
+        "organization": "University of New Brunswick", 
+        "posted": {
+            "day": 26, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 26, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/manager-health-sciences-library", 
+        "job_title": "Manager, Health Sciences Library", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "London", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "London Health Sciences Centre", 
+        "posted": {
+            "day": 8, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Archives", 
+        "deadline": {
+            "day": 26, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/digitization-intern-0", 
+        "job_title": "Digitization Intern", 
+        "job_type": "Internship", 
+        "location": {
+            "city": "London", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Congregation of the Sisters of St. Joseph in Canada Archives", 
+        "posted": {
+            "day": 17, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Museum", 
+        "deadline": {
+            "day": 25, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/collections-information-specialist-artifacts-cmh", 
+        "job_title": "Collections Information Specialist - Artifacts, CMH", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Gatineau", 
+            "country": "Canada", 
+            "province": "Qu\u00e9bec"
+        }, 
+        "organization": "Canadian Museum of History", 
+        "posted": {
+            "day": 12, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Museum", 
+        "deadline": {
+            "day": 25, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/information-analyst-artifacts", 
+        "job_title": "Information Analyst, Artifacts", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Gatineau", 
+            "country": "Canada", 
+            "province": "Qu\u00e9bec"
+        }, 
+        "organization": "Canadian Museum of History", 
+        "posted": {
+            "day": 12, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Records Management", 
+        "deadline": {
+            "day": 24, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/records-and-information-analyst-17587", 
+        "job_title": "Records and Information Analyst #17587", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Newmarket", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "York Region", 
+        "posted": {
+            "day": 11, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Special)", 
+        "deadline": {
+            "day": 24, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/research-librarian-1", 
+        "job_title": "Research Librarian", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Borden Ladner Gervais LLP", 
+        "posted": {
+            "day": 15, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Information Systems", 
+        "deadline": {
+            "day": 22, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Permanent", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/administrator-business-information", 
+        "job_title": "Administrator - Business Information", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "ON"
+        }, 
+        "organization": "Butterfield & Robinson", 
+        "posted": {
+            "day": 15, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": ""
+    }, 
+    {
+        "category": "Library (Academic)", 
+        "deadline": {
+            "day": 21, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/copyright-and-open-access-assistant-ycw-position", 
+        "job_title": "Copyright and Open Access Assistant (YCW Position)", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "Ryerson University Library and Archives (RULA)", 
+        "posted": {
+            "day": 12, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "student": "Yes"
+    }, 
+    {
+        "category": "Library (School)", 
+        "deadline": {
+            "day": 19, 
+            "month": "Jun", 
+            "year": 2015
+        }, 
+        "job_duration": "Temporary", 
+        "job_from": "University of Toronto -- Ischool", 
+        "job_link": "/jobsite/2015/library-and-information-technician-media-services", 
+        "job_title": "Library and Information Technician - Media Services", 
+        "job_type": "Full-time", 
+        "location": {
+            "city": "Toronto", 
+            "country": "Canada", 
+            "province": "Ontario"
+        }, 
+        "organization": "George Brown College", 
+        "posted": {
+            "day": 22, 
+            "month": "May", 
+            "year": 2015
+        }, 
+        "student": ""
+    }
+]
