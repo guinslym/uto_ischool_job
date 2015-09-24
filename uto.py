@@ -6,6 +6,8 @@ import json
 import requests
 import urllib2
 from bs4 import BeautifulSoup
+import time
+start = time.time()
 
 url_root = 'http://current.ischool.utoronto.ca'
 
@@ -80,21 +82,38 @@ def find_number_of_pages():
   uls = pagination.find('li', {'class', 'pager-last last'})
   last_page_url = uls.find('a')['href']
   last_page_url = last_page_url.split('=')[1]
+  last_page_url  = last_page_url.replace('&order', '')
   last_page = int(last_page_url)
   return last_page
+
+def find_category_and_job_type(url, html_class):
+  soup = get_url_content(url)
+  soup = soup.find('div', {'class': html_class })
+  if soup != None:
+    soup = soup.find_all('div', {'class': 'field-item odd'})
+    for elem in soup:
+      s = elem.find('div', {'class': 'field-label-inline-first'})
+      new_element = BeautifulSoup(str(elem).replace(str(s), ''))
+      return new_element.text.strip()
+  else:
+    return ''
 
 total_pages = find_number_of_pages()
 
 #for page in range(0,total_pages + 1):
 job_posts = []
-for page in range(0,total_pages + 1):
-  print(page)
+for page in range(0,2):
+  #print(page)
   soup = get_url_content(URL+str(page))
   soup = soup.find_all('table')[1]
   soup = soup.find_all('tr')[1::]
-
+  
+  taille_soup = len(soup)
+  decompte = 0
   for rows in soup:
-    tds = rows.find_all('td')
+    decompte = decompte + 1
+    print "page ", page , " -- ", decompte, "/", taille_soup, ' de fait.'
+    tds = rows.find_all('td')	
     job_title = (tds[0]).text
     job_title = job_title.strip()
     organization = (tds[1]).text.strip()
@@ -109,21 +128,28 @@ for page in range(0,total_pages + 1):
     job_link = link.find('a')['href']
     #other page
     url = url_root + job_link
-    #find_job_type_and_duration(url)
-    #job_type
-    #job_duration
+    job_type = find_category_and_job_type(url, 'field field-type-text field-field-job-type')
+    student = find_category_and_job_type(url, 'field field-type-text field-field-job-forstudent')
+    #print(job_type)
+    job_duration = find_category_and_job_type(url, 'field field-type-text field-field-job-duration')
     job_posts.append({'job_title': job_title, 
   									'organization': organization,
   									'location': location,
   									'category': category,
   									'posted': posted,
   									'deadline': deadline,
-  									'job_link': job_link})
+  									'job_link': job_link,
+  									'job_type': job_type,
+  									'job_duration': job_duration,
+  									'student': student,
+  									'job_from': 'University of Toronto -- Ischool' })
+  print 'It took', (time.time()-start)/60.0, 'minutes.'
 
-with open('data.json', 'w') as outfile:
+with open('data_short.json', 'w') as outfile:
   json.dump(job_posts, outfile, sort_keys = True, indent=4)
 
-
+print('--------------------------------------')
+print 'Finish: It took', (time.time()-start)/60.0, 'minutes.'
 
 
 
